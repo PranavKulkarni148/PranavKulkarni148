@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PranavKulkarni
+- 👀 I’m interested in ... Python
+- 🌱 I’m currently learning ... Machine Learning
