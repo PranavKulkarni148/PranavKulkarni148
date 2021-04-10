@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PranavKulkarni
-- 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... Machine Learning
+- 👀 I’m interested in ... CyberSecurity
+- 🌱 I’m currently learning ... Machine Learning and Cybersecurity
