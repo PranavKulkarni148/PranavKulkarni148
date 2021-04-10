@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @PranavKulkarni
 - 👀 I’m interested in ... CyberSecurity
 - 🌱 I’m currently learning ... Machine Learning and Cybersecurity
+- 🐱‍💻 I'm currently studying ... Bachlors of Computer Science
+- ✔ I have completed ... Python(basic/advance)
