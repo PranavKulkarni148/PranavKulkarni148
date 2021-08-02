@@ -2,4 +2,7 @@
 - 👀 I’m interested in ... CyberSecurity
 - 🌱 I’m currently learning ... Machine Learning and Cybersecurity
 - 🐱‍💻 I'm currently studying ... Bachlors of Computer Science ==== 2nd Year Ongoing
-- ✔ I have completed ... Python(basic/advance)
+- ✔ I have completed ... - Python(basic/advance)
+                         - HTML(basic)
+                         - CSS(basic)
+                         - JAVASCRIPT(basic)
